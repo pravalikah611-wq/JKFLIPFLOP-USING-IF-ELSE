@@ -8,7 +8,7 @@ To implement  JK flipflop using verilog and validating their functionality using
 
 Quartus prime
 
-**THEORY**
+
 
 **JK Flip-Flop**
 
